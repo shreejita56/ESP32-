@@ -15,7 +15,7 @@ So I made a simple Dev-board based on ESP32-S3-WROOM-1 . It has a USB-C for Comm
 <img width="571" height="687" alt="Screenshot 2026-10-09 233548" src="https://github.com/user-attachments/assets/f2c9685f-d2fe-46d0-9e52-d9b95ae6bb2d" />
 <img width="772" height="757" alt="Screenshot 2026-10-10 023615" src="https://github.com/user-attachments/assets/61fa029f-135a-4d00-9fb1-99b38e9d0b65" />
 
-## Bill of Materials (BOM)
+## BOM
 
 | Designation | Comment | Quantity | Total Price ($) | Link |
 |---|---|---:|---:|---|
@@ -35,7 +35,7 @@ So I made a simple Dev-board based on ESP32-S3-WROOM-1 . It has a USB-C for Comm
 | U3 | ESP32-S3-WROOM-1 | 2 | 10.2772 | [JLCPCB](https://jlcpcb.com/partdetail/3198300-ESP32_S3_WROOM_1N16R8/C2913202) |
 | C2 | 10uf | 20 | 0.0000 | [JLCPCB](https://jlcpcb.com/partdetail/56318658-GRM035R60G106ME01D/C53260764) |
 
-### Cost Summary
+### Total Cost
 
 | Item | Price ($) |
 |---|---:|
