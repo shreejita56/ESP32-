@@ -4,6 +4,16 @@
 
 So I made a simple Dev-board based on ESP32-S3-WROOM-1 . It has a USB-C for Communication and has all possible pin available on the Rp2040 . Boot/EN Pins 3.3V Voltage regulator on board LEDS . I tried to make it in a concise design. It was designed On kicad. 
 
+
+## Features
+- The Board uses USB-C for power and data transfer
+- The Board is based on ESP32-S3-WROOM-1
+- We have an onboard 3.3V Voltage regulator (AP63203WU)
+- We also have EN/Boot pin for booting and uploading new firmware
+- there is 2 set of 20 connector pins that connects to all possible pin outlets available on the board
+- The PCB was Designed on Kicad
+
+
 ## Schematcics
 
 <img width="695" height="566" alt="Screenshot 2026-10-04 234855" src="https://github.com/user-attachments/assets/b71227b4-cbdb-4ed6-be74-a41af40a02bf" />
