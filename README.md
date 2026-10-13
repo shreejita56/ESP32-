@@ -12,6 +12,7 @@ So I made a simple Dev-board based on ESP32-S3-WROOM-1 . It has a USB-C for Comm
 - We also have EN/Boot pin for booting and uploading new firmware
 - there is 2 set of 20 connector pins that connects to all possible pin outlets available on the board
 - The PCB was Designed on Kicad
+- It is Breadboard Compatible
 
 
 ## Schematcics
