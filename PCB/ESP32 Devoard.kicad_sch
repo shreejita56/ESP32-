@@ -10080,7 +10080,7 @@
 				)
 			)
 		)
-		(property "Value" "50 K"
+		(property "Value" "5.1 K"
 			(at 48.26 71.12 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10159,7 +10159,7 @@
 				)
 			)
 		)
-		(property "Value" "50 K"
+		(property "Value" "5.1 K"
 			(at 48.26 68.58 90)
 			(show_name no)
 			(do_not_autoplace no)
