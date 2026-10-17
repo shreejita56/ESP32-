@@ -1,5 +1,6 @@
 # ESP32-
-<img width="571" height="687" alt="Screenshot 2026-10-09 233548" src="https://github.com/user-attachments/assets/255f7ed9-f536-4ac7-b158-091337055ea0" />
+<img width="758" height="755" alt="Screenshot 2026-10-17 233038" src="https://github.com/user-attachments/assets/0ce8e788-1035-4252-957b-03ecff235d0e" />
+
 
 
 So I made a simple Dev-board based on ESP32-S3-WROOM-1 . It has a USB-C for Communication and has all possible pin available on the Rp2040 . Boot/EN Pins 3.3V Voltage regulator on board LEDS . I tried to make it in a concise design. It was designed On kicad. 
@@ -17,15 +18,15 @@ So I made a simple Dev-board based on ESP32-S3-WROOM-1 . It has a USB-C for Comm
 
 ## Schematcics
 
-<img width="726" height="626" alt="Screenshot 2026-10-17 224025" src="https://github.com/user-attachments/assets/d4536418-5d05-453c-8ae5-2432b63da27b" />
+<img width="726" height="626" alt="Screenshot 2026-10-17 224025" src="https://github.com/user-attachments/assets/ae19b328-037a-4a90-b35a-f35110955769" />
+
 
 
 ## PCB/CAD 
 
-<img width="766" height="802" alt="Screenshot 2026-10-17 224106" src="https://github.com/user-attachments/assets/dc33357e-96d5-4236-b343-4fcccf3bfff6" />
+<img width="702" height="730" alt="Screenshot 2026-10-17 232944" src="https://github.com/user-attachments/assets/b4bc9249-d32b-420e-a2ee-37fb9561b96c" />
 
-<img width="571" height="687" alt="Screenshot 2026-10-09 233548" src="https://github.com/user-attachments/assets/f2c9685f-d2fe-46d0-9e52-d9b95ae6bb2d" />
-<img width="772" height="757" alt="Screenshot 2026-10-10 023615" src="https://github.com/user-attachments/assets/61fa029f-135a-4d00-9fb1-99b38e9d0b65" />
+<img width="758" height="755" alt="Screenshot 2026-10-17 233038" src="https://github.com/user-attachments/assets/2b95239e-7997-464e-9ece-660200320896" />
 
 ## BOM
 
