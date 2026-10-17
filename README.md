@@ -42,7 +42,7 @@ So I made a simple Dev-board based on ESP32-S3-WROOM-1 . It has a USB-C for Comm
 | J1 | USB_C_Receptacle_USB2.0_16P | 2 | 1.0700 | [JLCPCB](https://jlcpcb.com/partdetail/SHOUHAN-USBC_0015IPX600/C783298) |
 | L1 | 4.7uh | 20 | 0.4880 | [JLCPCB](https://jlcpcb.com/partdetail/Sunlord-SDFL1608Q4R7KTF/C1034) |
 | R1, R2 | 33 | 20 | 0.0500 | [JLCPCB](https://jlcpcb.com/partdetail/23867-0603WAF330JT5E/C23140) |
-| R3, R4 | 50K | 20 | 0.6360 | [JLCPCB](https://jlcpcb.com/partdetail/YAGEO-RT0603BRD0750KL/C861451) |
+| R3, R4 | 5.1K | 20 | 0.6360 | [JLCPCB](https://jlcpcb.com/partdetail/YAGEO-RT0603BRD0750KL/C861451) |
 | R5, R6 | R | 6 | 0.5406 | [JLCPCB](https://jlcpcb.com/partdetail/FuzetecTech-FSMD050_0805R/C181350) |
 | R7 | 1K | 20 | 0.0240 | [JLCPCB](https://jlcpcb.com/partdetail/SAE-1RC0201J0102/C54530604) |
 | SW1, SW2 | SW_Push | 4 | 2.0232 | [JLCPCB](https://jlcpcb.com/partdetail/55982-DSIC01LHGET/C54957) |
