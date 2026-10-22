@@ -1,5 +1,6 @@
 # ESP32-
-<img width="677" height="877" alt="Screenshot 2026-10-22 142033" src="https://github.com/user-attachments/assets/390482e7-e719-41f6-bb06-bcd2fe36604a" />
+<img width="655" height="680" alt="Screenshot 2026-10-22 230612" src="https://github.com/user-attachments/assets/c55e4c6c-3e53-4906-8bab-b1854ed949c4" />
+
 
 
 
@@ -26,9 +27,11 @@ So I made a simple Dev-board based on ESP32-S3-WROOM-1 . It has a USB-C for Comm
 
 ## PCB/CAD 
 
-<img width="880" height="822" alt="Screenshot 2026-10-22 142021" src="https://github.com/user-attachments/assets/c5f3047e-2420-48b7-8227-3b5c8b8b3d3b" />
+![Uploading Screenshot 2026-10-22 230830.png…]()
 
-<img width="677" height="877" alt="Screenshot 2026-10-22 142033" src="https://github.com/user-attachments/assets/7428817c-2115-4a9e-8544-e2aca6ee1c8c" />
+<img width="655" height="680" alt="Screenshot 2026-10-22 230612" src="https://github.com/user-attachments/assets/72029631-ace3-4742-97a9-38f7527b3dbb" />
+<img width="840" height="885" alt="Screenshot 2026-10-22 230618" src="https://github.com/user-attachments/assets/dd644732-5ad0-4b1f-9f34-b20a4ee2c815" />
+
 
 
 
