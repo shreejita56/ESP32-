@@ -1,15 +1,15 @@
 Designation,Comment,Quantity,Total Price ($),Link
-C1,47uf,6,1.2342,https://jlcpcb.com/partdetail/152108-GRM188R60J476ME15D/C140782
-C2,10uf,20,0.544,https://jlcpcb.com/partdetail/20411-CL10A106KP8NNNC/C19702
-C3,100nf,20,0.164,https://jlcpcb.com/partdetail/YAGEO-CC0603KRX7R9BB104/C14663
-"C4,C5",22uf,20,0.626,https://jlcpcb.com/partdetail/60514-CL10A226MQ8NRNC/C59461
-D1,LED,20,0.394,https://jlcpcb.com/partdetail/90993-NCD0603Y2/C89811
+C1,47uf,2,1.2342,https://jlcpcb.com/partdetail/152108-GRM188R60J476ME15D/C140782
+C2,10uf,2,0.544,https://jlcpcb.com/partdetail/20411-CL10A106KP8NNNC/C19702
+C3,100nf,2,0.164,https://jlcpcb.com/partdetail/YAGEO-CC0603KRX7R9BB104/C14663
+"C4,C5",22uf,4,0.626,https://jlcpcb.com/partdetail/60514-CL10A226MQ8NRNC/C59461
+D1,LED,2,0.394,https://jlcpcb.com/partdetail/90993-NCD0603Y2/C89811
 J1,USB_C_Receptacle_USB2.0_16P,2,4.1336,https://jlcpcb.com/partdetail/XKBConnection-USB31_TYPE_CFSABC/C2880583
-L1,4.7uh,20,0.502,https://jlcpcb.com/partdetail/Sunlord-SDFL1608Q4R7KTF/C1034
-"R1,R2",33,20,0.048,https://jlcpcb.com/partdetail/23867-0603WAF330JT5E/C23140
-"R3,R4",5.1K,20,0.03,https://jlcpcb.com/partdetail/23913-0603WAF5101T5E/C23186
-R7,1K,20,0.036,https://jlcpcb.com/partdetail/21904-0603WAF1001T5E/C21190
-U2,AP63203WU,5,6.1155,https://jlcpcb.com/partdetail/DiodesIncorporated-AP63203WU7/C780769
+L1,4.7uh,2,0.502,https://jlcpcb.com/partdetail/Sunlord-SDFL1608Q4R7KTF/C1034
+"R1,R2",33,4,0.048,https://jlcpcb.com/partdetail/23867-0603WAF330JT5E/C23140
+"R3,R4",5.1K,4,0.03,https://jlcpcb.com/partdetail/23913-0603WAF5101T5E/C23186
+R7,1K,2,0.036,https://jlcpcb.com/partdetail/21904-0603WAF1001T5E/C21190
+U2,AP63203WU,2,6.1155,https://jlcpcb.com/partdetail/DiodesIncorporated-AP63203WU7/C780769
 U3,ESP32-S3-WROOM-1,2,10.3502,https://jlcpcb.com/partdetail/3522416-ESP32_S3_WROOM_1UN16R8/C3013946
 PCB Fabrication,PCB cost,1,4.00,
 Shipping,Shipping fee,1,11.87,
