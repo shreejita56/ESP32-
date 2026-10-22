@@ -37,17 +37,17 @@ So I made a simple Dev-board based on ESP32-S3-WROOM-1 . It has a USB-C for Comm
 
 | Designation | Comment | Quantity | Total Price ($) | Link |
 |---|---|---:|---:|---|
-| C1 | 47uF | 6 | 1.2342 | [JLCPCB](https://jlcpcb.com/partdetail/152108-GRM188R60J476ME15D/C140782) |
-| C2 | 10uF | 20 | 0.5440 | [JLCPCB](https://jlcpcb.com/partdetail/20411-CL10A106KP8NNNC/C19702) |
-| C3 | 100nF | 20 | 0.1640 | [JLCPCB](https://jlcpcb.com/partdetail/YAGEO-CC0603KRX7R9BB104/C14663) |
-| C4, C5 | 22uF | 20 | 0.6260 | [JLCPCB](https://jlcpcb.com/partdetail/60514-CL10A226MQ8NRNC/C59461) |
-| D1 | LED | 20 | 0.3940 | [JLCPCB](https://jlcpcb.com/partdetail/90993-NCD0603Y2/C89811) |
+| C1 | 47uF | 2 | 1.2342 | [JLCPCB](https://jlcpcb.com/partdetail/152108-GRM188R60J476ME15D/C140782) |
+| C2 | 10uF | 2 | 0.5440 | [JLCPCB](https://jlcpcb.com/partdetail/20411-CL10A106KP8NNNC/C19702) |
+| C3 | 100nF | 2 | 0.1640 | [JLCPCB](https://jlcpcb.com/partdetail/YAGEO-CC0603KRX7R9BB104/C14663) |
+| C4, C5 | 22uF | 4 | 0.6260 | [JLCPCB](https://jlcpcb.com/partdetail/60514-CL10A226MQ8NRNC/C59461) |
+| D1 | LED | 2 | 0.3940 | [JLCPCB](https://jlcpcb.com/partdetail/90993-NCD0603Y2/C89811) |
 | J1 | USB_C_Receptacle_USB2.0_16P | 2 | 4.1336 | [JLCPCB](https://jlcpcb.com/partdetail/XKBConnection-USB31_TYPE_CFSABC/C2880583) |
-| L1 | 4.7uH | 20 | 0.5020 | [JLCPCB](https://jlcpcb.com/partdetail/Sunlord-SDFL1608Q4R7KTF/C1034) |
-| R1, R2 | 33 | 20 | 0.0480 | [JLCPCB](https://jlcpcb.com/partdetail/23867-0603WAF330JT5E/C23140) |
-| R3, R4 | 5.1K | 20 | 0.0300 | [JLCPCB](https://jlcpcb.com/partdetail/23913-0603WAF5101T5E/C23186) |
-| R7 | 1K | 20 | 0.0360 | [JLCPCB](https://jlcpcb.com/partdetail/21904-0603WAF1001T5E/C21190) |
-| U2 | AP63203WU | 5 | 6.1155 | [JLCPCB](https://jlcpcb.com/partdetail/DiodesIncorporated-AP63203WU7/C780769) |
+| L1 | 4.7uH | 2 | 0.5020 | [JLCPCB](https://jlcpcb.com/partdetail/Sunlord-SDFL1608Q4R7KTF/C1034) |
+| R1, R2 | 33 | 4 | 0.0480 | [JLCPCB](https://jlcpcb.com/partdetail/23867-0603WAF330JT5E/C23140) |
+| R3, R4 | 5.1K | 4 | 0.0300 | [JLCPCB](https://jlcpcb.com/partdetail/23913-0603WAF5101T5E/C23186) |
+| R7 | 1K | 2 | 0.0360 | [JLCPCB](https://jlcpcb.com/partdetail/21904-0603WAF1001T5E/C21190) |
+| U2 | AP63203WU | 2 | 6.1155 | [JLCPCB](https://jlcpcb.com/partdetail/DiodesIncorporated-AP63203WU7/C780769) |
 | U3 | ESP32-S3-WROOM-1 | 2 | 10.3502 | [JLCPCB](https://jlcpcb.com/partdetail/3522416-ESP32_S3_WROOM_1UN16R8/C3013946) |
 | PCB Fabrication | PCB cost | 1 | 4.0000 | — |
 | Shipping | Shipping fee | 1 | 11.8700 | — |
